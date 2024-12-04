@@ -1,1 +1,3 @@
-# Exploratory_Data_Analysis
+Exploratory_Data_Analysis_On_Ev_Charging_Patterns
+This dataset offers valuable information about electric vehicle (EV) charging habits, focusing on metrics such as energy usage, charging time, travel distance, battery capacity, state of charge, vehicle categories, user types, and external factors like temperature. The goal of the analysis is to identify trends in charging demand, efficiency, and user preferences, while also exploring how factors like vehicle age and environmental conditions influence charging behavior. These findings can help enhance charging infrastructure planning and support the broader adoption of sustainable EV practices.
+Imported Libaries are pandas,numpy,matplotlib,seaborn.
